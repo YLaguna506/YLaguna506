@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yael Laguna</h1>
-<h3 align="center">I am an soon to be Computer Engineer graduate, and an aspiring software engineer.</h3>
+<h3 align="center">I am a soon to be Computer Engineer graduate, and an aspiring software engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ylaguna506&label=Profile%20views&color=0e75b6&style=flat" alt="ylaguna506" /> </p>
 
