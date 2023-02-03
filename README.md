@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ylaguna506&label=Profile%20views&color=0e75b6&style=flat" alt="ylaguna506" /> </p>
 
-- 🌱 I’m currently learning **App Development, Programming Languages, Database Management, Web development.**
+- 🌱 I’m currently learning **Salesforce Development, App Development, Programming Languages, Web development.**
 
-- 💬 Ask me about **C++, Python, Kotlin, MySQL, C#, HTML, CSS.**
+- 💬 Ask me about **Apex, Kotlin, Python, SQL, C#, HTML, CSS, Javascript.**
 
-- 📫 How to reach me **laguna_96642@students.pupr.edu**
+- 📫 How to reach me **yael15xv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
