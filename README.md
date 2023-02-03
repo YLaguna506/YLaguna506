@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Salesforce Development, App Development, Programming Languages, Web development.**
 
-- 💬 Ask me about **Apex, SOQL, Kotlin, Python, SQL, C#, HTML, CSS, Javascript.**
+- 💬 Ask me about **Salesforce, Apex, SOQL, Kotlin, Python, SQL, C#, HTML, CSS, Javascript.**
 
 - 📫 How to reach me **yael15xv@gmail.com**
 
