@@ -14,7 +14,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**TickerLens**](https://github.com/YLaguna506/tickerlens) *(in progress)* | Stock research tool. Type a US ticker to get SEC financials, valuation against the company's own history, a lifecycle phase and 1–5 scores. AI agents explain the numbers, but never produce them. | Go · Python · PostgreSQL · React · Docker |
-| [**LLM Engineering Portfolio**](https://github.com/YLaguna506/llm-engineering-portfolio) | My work from Ed Donner's LLM Engineering course, using Gemini, OpenRouter and local Ollama models. | Python · Jupyter |
+| [**LLM Engineering Portfolio**](https://github.com/YLaguna506/llm-engineering-portfolio) *(in progress)* | My work from Ed Donner's LLM Engineering course, using Gemini, OpenRouter and local Ollama models. | Python · Jupyter |
 | [**DatingApp**](https://github.com/YLaguna506/DatingApp) | Full-stack web app with an ASP.NET Core API and an Angular client. | C# · .NET · Angular |
 
 ## 🛠️ Tech stack
