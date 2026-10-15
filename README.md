@@ -1,24 +1,35 @@
-<h1 align="center">Hi 👋, I'm Yael Laguna</h1>
-<h3 align="center">I am a Computer Engineer graduate, and an aspiring software engineer.</h3>
+# Hi, I'm Yael Laguna 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ylaguna506&label=Profile%20views&color=0e75b6&style=flat" alt="ylaguna506" /> </p>
+**Software Engineer in Puerto Rico.** I've spent 4+ years building backend services, REST APIs and full-stack applications with **C# / .NET**, **Java Spring Boot** and **Angular**.
 
-- 🌱 I’m currently learning **Salesforce Development, App Development, Programming Languages, Web development.**
+- 💼 **Software Engineer at CEGSoft.** I ship features end to end on multi-tenant tax platforms (payroll and withholdings, individual income, corporate). The work runs from schema design and calculation engines through the UI, bilingual PDFs, government e-file output and release on Azure Pipelines.
+- ⚡ **Recent work:**
+  - REST microservices on Cosmos DB with Redis caching, modernizing a legacy architecture.
+  - Parallel OCR batch processing that cut import time by **85%**.
+  - An auditable, append-only ledger engine for Puerto Rico Law 4-2017 leave accrual.
+- 🌱 **Currently learning:** Go, and AI engineering with LLMs in Python.
+- 🎓 **B.S. Computer Engineering**, Polytechnic University of Puerto Rico.
 
-- 💬 Ask me about **Salesforce, Apex, SOQL, Kotlin, Python, SQL, C#, HTML, CSS, Javascript.**
+## 🚀 Featured projects
 
-- 📫 How to reach me **yael15xv@gmail.com**
+| Project | What it is | Stack |
+|---|---|---|
+| [**TickerLens**](https://github.com/YLaguna506/tickerlens) *(in progress)* | Stock research tool. Type a US ticker to get SEC financials, valuation against the company's own history, a lifecycle phase and 1–5 scores. AI agents explain the numbers, but never produce them. | Go · Python · PostgreSQL · React · Docker |
+| [**LLM Engineering Portfolio**](https://github.com/YLaguna506/llm-engineering-portfolio) | My work from Ed Donner's LLM Engineering course, using Gemini, OpenRouter and local Ollama models. | Python · Jupyter |
+| [**DatingApp**](https://github.com/YLaguna506/DatingApp) | Full-stack web app with an ASP.NET Core API and an Angular client. | C# · .NET · Angular |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yael-laguna-77a06b22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yael-laguna-77a06b22" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" alt="salesforce" width="60" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Desktop.png" alt="powerbi" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.quest.com/toad/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Toad-Original_RGB.png" alt="toad" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
+| | |
+|---|---|
+| **Languages** | C#, Java, SQL, JavaScript, Go, Python |
+| **Backend** | .NET, ASP.NET MVC, Entity Framework, Java Spring Boot, REST APIs, microservices |
+| **Frontend** | Angular, AngularJS, HTML, CSS |
+| **Data** | SQL Server, Cosmos DB, PostgreSQL, Redis |
+| **Cloud & DevOps** | Azure, Azure DevOps, CI/CD, GitHub Actions, Docker, Git |
+| **Also** | Salesforce (Apex, SOQL, LWC), Power BI |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ylaguna506&show_icons=true&locale=en&layout=compact" alt="ylaguna506" /></p>
+## 📫 Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ylaguna506&show_icons=true&locale=en" alt="ylaguna506" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ylaguna506&" alt="ylaguna506" /></p>
+<a href="https://www.linkedin.com/in/yael-laguna-haddock-77a06b228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:yael15xv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
