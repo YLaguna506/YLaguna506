@@ -6,7 +6,6 @@
 - ⚡ **Recent work:**
   - REST microservices on Cosmos DB with Redis caching, modernizing a legacy architecture.
   - Parallel OCR batch processing that cut import time by **85%**.
-  - An auditable, append-only ledger engine for Puerto Rico Law 4-2017 leave accrual.
 - 🌱 **Currently learning:** Go, and AI engineering with LLMs in Python.
 - 🎓 **B.S. Computer Engineering**, Polytechnic University of Puerto Rico.
 
