@@ -15,7 +15,7 @@
 |---|---|---|
 | [**TickerLens**](https://github.com/YLaguna506/tickerlens) | Stock research tool. Type a US ticker to get SEC financials, valuation against the company's own history, a lifecycle phase and 1–5 scores. AI agents explain the numbers, but never produce them. | Go · Python · PostgreSQL · React · Docker |
 | [**LLM Engineering Portfolio**](https://github.com/YLaguna506/llm-engineering-portfolio) *(in progress)* | My work from Ed Donner's LLM Engineering course, using Gemini, OpenRouter and local Ollama models. | Python · Jupyter |
-| [**DatingApp**](https://github.com/YLaguna506/DatingApp) | Full-stack web app with an ASP.NET Core API and an Angular client. | C# · .NET · Angular |
+| [**Quake**](https://github.com/YLaguna506/Quake-Android-Application-Kotlin-) | Android app for earthquakes in Puerto Rico (capstone project). Lists recent quakes from a Firebase database, shows each one's magnitude and location on Google Maps, sends push alerts, and links to the Puerto Rico Seismic Network. | Kotlin · Android · Firebase · Google Maps |
 
 ## 🛠️ Tech stack
 
